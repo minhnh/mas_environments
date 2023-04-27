@@ -9,4 +9,5 @@
   <license>GPLv3</license>
 
   <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>mas_navigation_tools</exec_depend>
 </package>
